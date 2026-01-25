@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME" target="_blank">YOUR NAME</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/challau" target="_blank">Challa uday kumar</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/hi.gif" height="30"/></h1>
 
 <p align="center"> 
@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,express,mysql,mongodb,git,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,react,nodejs,express,mysql,mongodb,git,vscode&perline=10" />
   </a>
 </p>
 
