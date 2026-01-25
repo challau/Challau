@@ -1,53 +1,48 @@
-
 <div align="center">
-  <h1>Hi, I'm Uday <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <h3>Aspiring SDE | Java & Spring Boot Enthusiast</h3>
-  <p><i>B.Tech from Dayananda Sagar University, Bangalore</i></p>
-
-  <a href="https://www.linkedin.com/in/challa-uday-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:challaudaykumar1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Uday;Aspiring+SDE+Backend;Java+%2B+Spring+Boot+Dev;Competitive+Programmer" alt="Typing SVG" />
+  
+  <h3>Building Scalable Backends & Solving Complex Problems</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/challa-uday-kumar">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="https://leetcode.com/u/challaudaykumar/">
+      <img src="https://img.shields.io/badge/Solve-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </p>
 </div>
-
-<br/>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Profile
 
-- 🔭 **Currently Building** > A **College Event Management System** using `Java Spring Boot` + `MySQL`.
-- 💼 **Career Goal** > Targeting SDE internships & aiming for high-impact backend engineering roles.
-- 🌱 **Learning Focus** > Advanced DSA, System Design, and Cloud Architecture (AWS).
-- 👯 **Interested In** > Open-source, Distributed Systems, and Cloud-native projects.
-- 💬 **Ask me about** > Java, Data Structures, and Competitive Programming.
-
-<br/>
-
-### 🚀 Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=java,c,c++" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Backend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=spring,mysql,aws" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /></td>
-    </tr>
-  </table>
-</div>
+| **Focus Area** | **Details** |
+| :--- | :--- |
+| **🎓 Education** | B.Tech, **Dayananda Sagar University** (Bangalore) |
+| **🔭 Current Project** | **Event Management System** (Java Spring Boot, MySQL, REST APIs) |
+| **💼 Career Goal** | Seeking **SDE Internships** (Backend / Distributed Systems) |
+| **🧠 Core Skills** | Data Structures & Algorithms (DSA), OOPs, DBMS, OS |
+| **⚡ Competitive** | Active on **LeetCode**, **CodeChef**, & **GFG** |
 
 <br/>
 
-### 📊 Competitive Programming & Stats
+### 🛠️ Technical Stack
+
+I focus on tools used in enterprise-level software development.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,python" height="25" /> **Java** (Primary), C, Python |
+| **Backend Frameworks** | <img src="https://skillicons.dev/icons?i=spring" height="25" /> **Spring Boot**, Hibernate, REST APIs |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" height="25" /> **MySQL** |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,aws,linux" height="25" /> Git, Postman, AWS (Basic), Linux |
+
+<br/>
+
+### 🧩 Problem Solving Stats
+
+*Consistency is key. Here is my live activity:*
 
 <div align="center">
   <a href="https://leetcode.com/u/challaudaykumar/">
@@ -58,28 +53,26 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages" />
+  <a href="https://www.codechef.com/users/uday_666z">
+    <img src="https://img.shields.io/badge/CodeChef-User-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/challaudalp9a">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Solved-298D35?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
-### 🌐 Coding Profiles
+### 📈 GitHub Activity
 
-<p align="center">
-  <a href="https://leetcode.com/u/challaudaykumar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/uday_666z">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/challaudalp9a">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="languages" />
+</div>
 
 <br/>
 
+---
 <div align="center">
-  <i>⭐ Turning ideas into working software, one bug at a time.</i>
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </div>
