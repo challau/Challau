@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uday Kumar Challa</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | DSA Enthusiast</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=challau&label=Profile%20views&color=0e75b6&style=flat" alt="challau" /> </p>
 
 <br/>
 
