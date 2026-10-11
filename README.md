@@ -1,156 +1,127 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,50:312E81,100:0EA5E9&text=Uday%20Kumar%20Challa&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20DSU%20%2728&descSize=16&descAlignY=62&animation=fadeIn" alt="Uday Kumar Challa profile banner" />
+
+<p>
+  <a href="https://github.com/challau"><img src="https://img.shields.io/badge/GitHub-challau-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/challa-uday-kumar-33a244330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=challau&style=for-the-badge&color=0EA5E9" alt="Profile views"/>
+</p>
+
 </div>
 
-###
+## 👋 About Me
 
-<br clear="both">
+I'm a **B.Tech Computer Science and Engineering student at Dayananda Sagar University (DSU '28)** interested in building useful software with AI and full-stack technologies.
 
-<h1 data-importer="text" align="center">Hey, I'm Uday Kumar Challa 👋</h1>
+- 🤖 Learning and building with **LLMs, AI APIs, RAG, and AI agents**
+- 🌐 Developing web applications with **React, Next.js, TypeScript, and FastAPI**
+- 💻 Practicing **C++ DSA and competitive programming**
+- 🧪 Building projects across AI applications, opportunity discovery, and safety monitoring
+- 🎯 Open to **AI engineering, full-stack, and software engineering internships**
 
-###
+---
 
-<br clear="both">
+## 🧰 Tech Stack
 
-<p data-importer="text" align="center">AI & Full-Stack Developer | C++ • Python • JavaScript • TypeScript | React • Next.js • FastAPI<br>🎓 B.Tech CSE Core Student | Dayananda Sagar University, 2028</p>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" alt="C++, Python, JavaScript, TypeScript"/>
+</p>
 
-###
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS, Tailwind CSS"/>
+</p>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=challau.challau&"  />
+### Backend, Data & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,git,github,vscode" alt="FastAPI, PostgreSQL, Redis, Git, GitHub, VS Code"/>
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" alt="Python, scikit-learn, PyTorch"/>
+</p>
+
+<sub>Skills and tools are a learning-in-progress list; experience varies by technology.</sub>
+
+---
+
+## 🚀 Featured Projects
+
+### [PrepPulse AI](https://github.com/challau/PrepPulse-AI)
+**AI-powered technical quiz builder and assessment platform**
+
+- Focused on programming languages and computer science fundamentals.
+- Supports technical assessment workflows and multiple question formats.
+- Uses an LLM API for AI-assisted question generation.
+
+### [AI Opportunity Scout](https://github.com/challau)
+**AI-assisted opportunity discovery and digest platform**
+
+- Built around a Next.js / TypeScript frontend and FastAPI backend.
+- Uses PostgreSQL and Redis as part of the application stack.
+- Designed for scheduled opportunity digests and notification workflows.
+
+> The repository link above points to my GitHub profile because a direct repository URL has not been confirmed. Replace it with the project's repository URL when available.
+
+### [Mine Subsidence Monitoring — SIH 2026](https://github.com/challau/SIH2026-Mine-Subsidence-Monitoring)
+**Sensor-based mine safety monitoring prototype**
+
+- Explores sensor-based monitoring with ESP32 and communication modules.
+- Uses a FastAPI backend and database-backed data handling.
+- Investigates machine-learning-based anomaly detection and time-series analysis.
+- Prototype project; not represented as a field-deployed safety system.
+
+---
+
+## 💻 Competitive Programming
+
+I use problem-solving practice to strengthen my algorithms, data structures, and implementation skills.
+
+<p>
+  <a href="https://leetcode.com/u/challaudaykumar/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/uday_666z"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/uday_666z"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://atcoder.jp/users/uday_66z"><img src="https://img.shields.io/badge/AtCoder-Profile-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/></a>
+  <a href="https://www.geeksforgeeks.org/user/challaualdp9a/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+</p>
+
+**Currently practicing:** Arrays, strings, binary search, greedy algorithms, trees, dynamic programming, graphs, and number theory.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=challau&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=challau&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=challau&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left"></h2>
+## 🌱 Current Focus
 
-###
+- Building end-to-end AI-powered web applications
+- Learning LLM application patterns, RAG, and AI agents
+- Improving backend fundamentals, API design, and database skills
+- Strengthening C++ DSA and competitive programming
+- Preparing for software engineering and AI-related internships
 
-<p data-importer="text" align="left">I'm passionate about building AI-powered applications, exploring Large Language Models (LLMs), and developing full-stack products that solve real-world problems.<br><br>🤖 Exploring AI Engineering, LLMs, RAG, and AI Agents<br>🌐 Building with React, Next.js, TypeScript, and FastAPI<br>💻 Practicing Data Structures & Algorithms and competitive programming<br>🚀 Interested in AI Engineering, Full-Stack, and Software Development internships<br>📚 Continuously learning, building projects, and improving my problem-solving skills</p>
+---
 
-###
+## 🤝 Connect With Me
 
-<h2 data-importer="text" align="left">Skills:</h2>
+<p>
+  <a href="https://github.com/challau"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/challa-uday-kumar-33a244330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</p>
 
-###
+💬 Interested in collaborating on AI applications, full-stack projects, open-source software, and algorithmic problem-solving.
 
-<br clear="both">
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=90&section=footer&color=0:0F172A,100:0EA5E9" alt="Profile footer"/>
 </div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="stats" align="center">
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
