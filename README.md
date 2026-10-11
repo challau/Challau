@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=200&section=header&text=Uday%20Kumar%20Challa&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20DSU%20%2728&descSize=16&descAlignY=55" width="100%" alt="Uday Kumar Challa banner"/>
 </div>
@@ -122,4 +122,3 @@ I practice problem-solving to strengthen my algorithms, data structures, and cod
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=100&section=footer" width="100%" alt="Footer banner"/>
 </div>
-```
