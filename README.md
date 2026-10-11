@@ -71,6 +71,9 @@
   <a href="https://leetcode.com/u/challaudaykumar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+    <a href="https://www.geeksforgeeks.org/profile/challaudalp9a">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+   </a>
 </p>
 
 ---
