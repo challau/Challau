@@ -17,7 +17,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=challau.challau&"  />
 </div>
 
 ###
@@ -98,10 +98,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
@@ -151,5 +147,10 @@
 ###
 
 <p data-importer="text" align="left"></p>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
 
 ###
